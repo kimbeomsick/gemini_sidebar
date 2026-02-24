@@ -28,10 +28,10 @@
 - [x] 로드 시 클라우드 데이터 복원
 
 ## Phase 4: 문서화 및 배포
-- [ ] PROGRESS.md 작성
-- [ ] 배포 가이드 작성 (worklog/deploy-guide.md)
-- [ ] Git 초기화 및 커밋
-- [ ] GitHub 원격 연결 및 푸쉬
+- [x] PROGRESS.md 작성
+- [x] 배포 가이드 작성 (worklog/deploy-guide.md)
+- [x] Git 초기화 및 커밋
+- [x] GitHub 원격 연결 및 푸쉬
 
 ## 향후 계획
 - [ ] Supabase Auth 로그인 구현
