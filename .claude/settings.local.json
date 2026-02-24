@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:gemini.google.com)",
+      "Bash(curl:*)",
+      "Bash(python3:*)",
+      "Bash(python:*)",
+      "Bash(where:*)",
+      "Bash(node --version:*)",
+      "Bash(node:*)",
+      "Bash(npm install)",
+      "Bash(cmd.exe /c \"rmdir /s /q \"\"C:\\\\Users\\\\papermnnts hd\\\\Desktop\\\\확장 프로그램\\\\node_modules\"\"\")",
+      "Bash(echo:*)",
+      "Bash(powershell -Command \"Remove-Item -Recurse -Force ''C:\\\\Users\\\\papermnnts hd\\\\Desktop\\\\확장 프로그램\\\\node_modules'' -ErrorAction SilentlyContinue; Write-Output ''done''\")",
+      "Bash(npx tsc:*)",
+      "Bash(npm run build:*)",
+      "WebSearch",
+      "Bash(zip:*)",
+      "Bash(powershell -Command \"Compress-Archive -Path ''dist/*'' -DestinationPath ''gemini-sidebar.zip'' -Force\")",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}
