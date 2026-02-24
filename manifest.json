@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Gemini Sidebar - 질문 & 메모",
+  "name": "Gemini Sidebar - Q&A & Notes",
   "version": "1.0.0",
-  "description": "Gemini 페이지에 질문 저장 및 마크다운 메모 사이드바를 추가합니다.",
+  "description": "Adds a sidebar to Google Gemini for saving questions, bookmarking, and writing markdown notes. Supports cloud sync via Supabase.",
   "permissions": ["storage"],
   "host_permissions": ["https://mfufuiztjecndzhdyrgx.supabase.co/*"],
   "action": {
