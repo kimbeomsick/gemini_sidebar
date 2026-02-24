@@ -1,0 +1,13 @@
+{
+  "name": "gemini-sidebar",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc && node build.mjs",
+    "icons": "node generate-icons.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "@types/chrome": "^0.0.287"
+  }
+}
