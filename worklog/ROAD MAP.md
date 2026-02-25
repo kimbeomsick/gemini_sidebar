@@ -32,9 +32,17 @@
 - [x] 배포 가이드 작성 (worklog/deploy-guide.md)
 - [x] Git 초기화 및 커밋
 - [x] GitHub 원격 연결 및 푸쉬
+- [x] README.md 작성 (프로젝트 소개, 기능, 설치 방법, 빌드)
+- [x] .gitignore 업데이트 (dist/, .omc/, .claude/ 포함)
+
+## Phase 5: Chrome Web Store 제출 준비
+- [x] manifest.json 영문화 (name, description)
+- [x] 개인정보처리방침 작성 (privacy_policy.html)
+- [x] 로고 아이콘 교체 (16, 48, 128px 신규 디자인)
+- [x] 스토어 스크린샷 준비 (1280x800 변환 및 패딩 적용)
 
 ## 향후 계획
+- [ ] Chrome Web Store 실제 제출 및 심사
 - [ ] Supabase Auth 로그인 구현
 - [ ] 데이터 내보내기/가져오기 (JSON)
-- [ ] Chrome Web Store 배포
-- [ ] 다국어 지원 (영어)
+- [ ] 다국어 지원 (영어 UI)
